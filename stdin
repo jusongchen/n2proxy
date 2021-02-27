@@ -1,0 +1,2 @@
+{"level":"info","ts":1614459603.8552983,"msg":"Starting reverse proxy on port: 12074"}
+{"level":"info","ts":1614459603.855365,"msg":"Requests proxied to Backend: http://example.com:80"}

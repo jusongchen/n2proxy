@@ -6,7 +6,8 @@ import (
 
 	"go.uber.org/zap"
 
-	"gopkg.in/yaml.v2"
+	// "gopkg.in/yaml.v2"
+	"github.com/go-yaml/yaml"
 )
 
 // for curl testing see https://unix.stackexchange.com/questions/208437/how-to-convert-ssl-ciphers-to-curl-format

@@ -13,7 +13,8 @@ import (
 
 	"github.com/Masterminds/sprig"
 	"go.uber.org/zap"
-	"gopkg.in/yaml.v2"
+	// "gopkg.in/yaml.v2"
+	"github.com/go-yaml/yaml"
 )
 
 type FilterCfg struct {
